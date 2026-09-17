@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Gowthamand&fontSize=48&animation=fadeIn&fontColor=ffffff&desc=ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=62)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Gowthaaman%20D&fontSize=48&animation=fadeIn&fontColor=ffffff&desc=ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=62)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=🤖+ML+Engineer+%7C+💻+Full+Stack+Developer;⚡+Specializing+in+AI%2FML%2C+FastAPI+%26+Node.js;📱+React+Native%2C+Angular+%26+Next.js;💳+Payment+Gateways+%26+WhatsApp+Automation)](https://github.com/tmisgowthaamand)
