@@ -21,14 +21,14 @@
 
 | 🌟 Who I Am | 🎯 Core Engineering Pillars |
 |---|---|
-| Hi there! I'm **Gowthamand**, a passionate **Machine Learning Engineer** & **Full Stack Developer** with a strong track record of engineering end-to-end AI applications, scalable microservices, and cross-platform mobile apps.<br><br>🔭 **Currently Building:** High-performance ML pipelines, WhatsApp API Automation platforms, and scalable Web & Mobile apps.<br>🌱 **Currently Exploring:** Advanced LLMs, Autonomous AI Agents, Deep Learning, & Distributed Cloud Architectures.<br>⚡ **Superpower:** Seamlessly bridging complex Machine Learning models with sleek, high-speed user interfaces. | 🧠 **Machine Learning & AI:** Model Training, Feature Engineering, Pipeline Deployment, Python, Anaconda, Jupyter, Google Colab.<br>⚡ **Backend & Cloud:** Scalable APIs with FastAPI, Flask, Node.js, TypeScript, PHP, Next.js, Docker, DigitalOcean.<br>📲 **Frontend & Mobile:** Responsive UIs with React Native, Angular, Next.js, HTML5 & CSS3.<br>💳 **Fintech & Automation:** Custom integrations for WhatsApp Business API, Razorpay, Paytm & PayGlocal. |
+| Hi there! I'm **Gowthaaman D**, a passionate **Machine Learning Engineer** & **Full Stack Developer** with a strong track record of engineering end-to-end AI applications, scalable microservices, and cross-platform mobile apps.<br><br>🔭 **Currently Building:** High-performance ML pipelines, WhatsApp API Automation platforms, and scalable Web & Mobile apps.<br>🌱 **Currently Exploring:** Advanced LLMs, Autonomous AI Agents, Deep Learning, & Distributed Cloud Architectures.<br>⚡ **Superpower:** Seamlessly bridging complex Machine Learning models with sleek, high-speed user interfaces. | 🧠 **Machine Learning & AI:** Model Training, Feature Engineering, Pipeline Deployment, Python, Anaconda, Jupyter, Google Colab.<br>⚡ **Backend & Cloud:** Scalable APIs with FastAPI, Flask, Node.js, TypeScript, PHP, Next.js, Docker, DigitalOcean.<br>📲 **Frontend & Mobile:** Responsive UIs with React Native, Angular, Next.js, HTML5 & CSS3.<br>💳 **Fintech & Automation:** Custom integrations for WhatsApp Business API, Razorpay, Paytm & PayGlocal. |
 
 ```bash
 ┌──(tmisgowthaamand㉀github)-[~]
 └─$ cat developer_profile.sh
 
 #!/bin/bash
-echo "Developer: Gowthamand"
+echo "Developer: Gowthaaman D"
 echo "Specialization: Machine Learning Engineer & Full Stack Developer"
 echo "Core Stack: Python | Node.js | TypeScript | FastAPI | React Native | Docker | SQL | MongoDB"
 echo "Integrations: WhatsApp API Automation | Razorpay | Paytm | PayGlocal"
