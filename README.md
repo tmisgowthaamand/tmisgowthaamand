@@ -178,12 +178,29 @@ status   = "🟢 Ready to build high-impact AI & Full Stack applications!"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmisgowthaamand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmisgowthaamand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=1800&langs_count=8" />
+<!-- Stats card - using self-deployable instance -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmisgowthaamand&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmisgowthaamand&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tmisgowthaamand&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/tmisgowthaamand)
+<!-- Streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=tmisgowthaamand&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+<!-- Alternative stats using github-stats-transparent -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmisgowthaamand&theme=github_dark)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmisgowthaamand&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmisgowthaamand&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tmisgowthaamand&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tmisgowthaamand&theme=github_dark&utcOffset=5.5" />
 
 <br/>
 
