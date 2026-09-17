@@ -178,17 +178,16 @@ status   = "🟢 Ready to build high-impact AI & Full Stack applications!"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmisgowthaamand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmisgowthaamand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmisgowthaamand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmisgowthaamand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=1800&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tmisgowthaamand&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/tmisgowthaamand)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tmisgowthaamand&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/tmisgowthaamand)
 
 <br/>
 
-<!-- Animated Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tmisgowthaamand&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&hide_border=true)](https://github.com/tmisgowthaamand)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmisgowthaamand&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&hide_border=true&theme=react-dark)](https://github.com/tmisgowthaamand)
 
 </div>
 
@@ -198,7 +197,7 @@ status   = "🟢 Ready to build high-impact AI & Full Stack applications!"
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tmisgowthaamand&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/tmisgowthaamand)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tmisgowthaamand&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10)](https://github.com/tmisgowthaamand)
 
 </div>
 
